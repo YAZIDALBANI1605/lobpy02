@@ -1,1 +1,2 @@
-# lobpy02
+nama 
+nim
